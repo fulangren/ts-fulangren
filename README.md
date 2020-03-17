@@ -1,4 +1,4 @@
-# fulangren ts + v3 + vuex-modules-decorators + vue-property-decorator + vuex + router + tslint
+# ts + v3 + vuex-modules-decorators + vue-property-decorator + vuex + router + tslint
 
 ## Project setup
 ```

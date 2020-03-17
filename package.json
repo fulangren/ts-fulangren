@@ -1,6 +1,7 @@
 {
   "name": "gold_land",
   "version": "0.1.0",
+  "author": "fulangren",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
