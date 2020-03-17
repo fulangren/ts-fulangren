@@ -1,0 +1,37 @@
+.course{
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.contain{
+  // background: red;
+  border: .2em solid seagreen;
+  border-radius: 30%;
+  display: inline-block;
+  text-align: center;
+  color: seagreen;
+  background: honeydew;
+  position: relative;
+  width: 80%;
+  height: 50%;
+  .info{
+    position: absolute;
+    top: -10px;
+    left: 0;
+    text-align: center;
+    font-size: 5px;
+    width: 100%;
+  }
+}
+.drag-color{
+  background: orangered;
+}
+.drop-color{
+  background: orangered;
+}
+.drag-drop{
+  // background: seagreen;
+  display: inline-block;
+  margin: 15px;
+}
